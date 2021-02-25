@@ -1,0 +1,13 @@
+COMMENT=1
+REAL=2
+INT=3
+READ=4
+LITENT=5
+LITREAL=6
+PRINT=7
+IDENT=8
+WHITESPACE=9
+'real'=2
+'int'=3
+'read'=4
+'print'=7
